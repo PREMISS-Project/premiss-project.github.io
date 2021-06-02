@@ -16,5 +16,8 @@ The objective of PREMISS is to demonstrate the extent to which a combination of 
 
 ## Implementation
 
-PREMISS, handled by an international consortium gathering South-African, French, Turkish, Vietnamese and Taiwanese academic and non-academic partners, will (1) deliver a systematic review of the literature that addresses these subjects, with the goal of producing operational and policy conclusions alongside at least two scientific review papers; (2) implement and manage three case studies that represent the three nexuses formed by SDG 9 and, respectively, SDG 6 (about the sustainable management of irrigation systems, through participatory modeling, in Vietnam), SDG 13 (about citizen science and participatory environmental mapping in Taiwan) and SDG 15 (about the adoption and impact of sensor networks on precision agriculture in Turkey); (3) deliver a scholarly book and a methodological guide providing new perspectives and sets of recommendations to support transdisciplinary approaches in sustainability science projects.
+PREMISS, handled by an international consortium gathering South-African, French, Turkish, Vietnamese and Taiwanese academic and non-academic partners, will 
+1. Deliver a systematic review of the literature that addresses these subjects, with the goal of producing operational and policy conclusions alongside at least two scientific review papers;
+2. Implement and manage three case studies that represent the three nexuses formed by SDG 9 and, respectively, SDG 6 (about the sustainable management of irrigation systems, through participatory modeling, in Vietnam), SDG 13 (about citizen science and participatory environmental mapping in Taiwan) and SDG 15 (about the adoption and impact of sensor networks on precision agriculture in Turkey);
+3. Deliver a scholarly book and a methodological guide providing new perspectives and sets of recommendations to support transdisciplinary approaches in sustainability science projects.
 
