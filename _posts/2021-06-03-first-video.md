@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First video
-subtitle: An introduction to the project 
+subtitle: A video introduction to the project 
 tags: [videos, kick-off meeting]
 comments: true
 ---
