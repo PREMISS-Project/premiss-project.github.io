@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Official opening of this website !
-subtitle: This is the first post on this website. 
 cover-img: /assets/img/First-Zoom-Meeting.jpg
 share-img: /assets/img/First-Zoom-Meeting.jpg
 tags: [zoom, meeting]
