@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First video
-subtitle: A video introduction to the project 
+title: Video Introduction
+subtitle: The objectives of the project told by the participants themselves
 tags: [videos, kick-off meeting]
 comments: true
 ---
