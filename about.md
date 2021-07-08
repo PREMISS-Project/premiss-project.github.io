@@ -6,7 +6,7 @@ subtitle: Belmont-Forum "Pathways to Sustainability" 2021-2023
 
 ![image](https://user-images.githubusercontent.com/579256/120444974-5d30b400-c3b2-11eb-846d-aa00bb2d85d1.png)
 
-## Context
+## Context of the project
 
 Among the many technological innovations that contribute to the sustainable development goal dedicated to industry, innovation and infrastructure (SDG 9), agent-based modeling and IoT-based crowdsourcing methods appear as promising approaches to, on the one hand, enable scientists and stakeholders to virtually explore the sustainability of different pathways in the management of complex socio-environmental systems and, on the other hand, empower stakeholders so that they themselves can monitor the progress of the chosen pathways. 
 
