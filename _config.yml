@@ -9,7 +9,7 @@
 title: PREMISS Project
 
 # Your name to show in the footer
-author: A. Drogoul
+author: Premiss team
 
 # --- List of links in the navigation bar --- #
 
@@ -20,7 +20,7 @@ navbar-links:
     - Thuyloi University: ""
     - Taiwan National University: ""
     - Bilgit University: ""
-    - IRD: ""
+    - IRD: "https://vietnam.ird.fr"
   Case Studies:
     - Taiwan: "taiwan"
     - Turkey: "turkey"
