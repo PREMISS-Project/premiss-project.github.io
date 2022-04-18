@@ -19,3 +19,7 @@ Interviews have been conducted with different types of actors to understand thei
 This information will be used to build the model supporting participatory simulations for the identification of sustainable solutions to the management of the irrigation system.
 
 This constitutes the next key step for the case study. 
+
+![WhatsApp Image 2022-04-18 at 16 16 26](https://user-images.githubusercontent.com/87107232/163791772-701363cc-c888-4c86-ad8d-6ba2069fe408.jpeg)
+
+© Léo Biré
