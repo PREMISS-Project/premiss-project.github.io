@@ -1,0 +1,11 @@
+---
+layout: post
+title: Article title
+subtitle: Article sub-title
+tags: [tag1, tag2]
+comments: true
+---
+
+Write your post starting now :)
+
+Before submit, don't forget to turn your file into a md file (simply by removing the ".template" extension) and edit the title (YEAR-MOnth-Day-url-link)
