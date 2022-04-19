@@ -2,7 +2,7 @@
 layout: post 
 title: First steps of the Vietnamese case study
 subtitle: Initial activities to gather information on the field to build a model and find sustainable solutions
-tags: [transdisciplinarity, participation, irrigation, sensors, modelling]
+tags: [transdisciplinarity, participation, irrigation, sensors, modelling, Vietnam]
 comments: true 
 --- 
 
