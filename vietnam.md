@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vietnam Case Study 🇻🇳
-subtitle: *Participatory simulations and sensing for the management of irrigation systems* Thuyloi University – Bac Hung Hai management company
+subtitle: Participatory simulations and sensing for the management of irrigation systems - Thuyloi University – Bac Hung Hai management company
 ---
 ![Vietnam CS](https://user-images.githubusercontent.com/87107232/163913693-be826e2d-061a-42da-a2e0-cd07ea64ba92.png)
 
