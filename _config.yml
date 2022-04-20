@@ -16,11 +16,11 @@ author: Premiss team
 navbar-links:
   About: "about"
   Partner Teams:
-    - University of Pretoria: "https://www.up.ac.za/"
-    - Thuyloi University: "https://www.tlu.edu.vn/"
-    - Taiwan National University: "https://www.ntu.edu.tw/english/"
-    - Bilgit University: "https://www.bilgi.edu.tr/en/"
+    - Bilgi University: "https://www.bilgi.edu.tr/en/"
     - IRD: "https://vietnam.ird.fr"
+    - Taiwan National University: "https://www.ntu.edu.tw/english/"
+    - Thuyloi University: "https://www.tlu.edu.vn/"
+    - University of Pretoria: "https://www.up.ac.za/"
   Case Studies:
     - Taiwan: "taiwan"
     - Turkey: "turkey"
