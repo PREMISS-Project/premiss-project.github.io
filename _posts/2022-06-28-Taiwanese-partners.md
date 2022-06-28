@@ -10,3 +10,4 @@ National Taiwan University has set up a monthly Newsletter to share and promote 
 The Chinese version is available [here](http://www.ipcs.ntu.edu.tw/page/about/index.aspx?kind=2169) and the English one under [this link](http://www.ipcs.ntu.edu.tw/page/about/index.aspx?kind=2170).
 
 
+![newsletter](https://user-images.githubusercontent.com/87107232/176084123-d8853314-4bab-4b03-925d-840c5247d014.png)
