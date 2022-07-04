@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PREMISS’s approach presented in *Citizen Science and Theory*’s Special Collection
+title: PREMISS’s approach presented in Citizen Science and Theory’s Special Collection
 subtitle: Abstract selection 
 tags: [publication, citizen science, SDG, transdisciplinarity]
 comments: true
