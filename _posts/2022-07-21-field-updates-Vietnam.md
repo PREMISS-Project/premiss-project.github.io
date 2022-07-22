@@ -5,6 +5,8 @@ subtitle: New rác session in Pham Tran
 tags: [serious game, Vietnam, pollution, modeling, simulation]
 comments: true
 ---
+![IMG_7780](https://user-images.githubusercontent.com/87107232/180357613-41a82844-a28b-4660-8b58-8572e5cbe292.jpg)
+
 
 An initial series of participatory workshops with farmers and village leaders was held in Phạm Trấn on 28th June ([article about the first session](https://premiss-project.github.io/2022-06-27-EcoGame/)) enabling a first set of tests of the rác serious game. It is used as a discussion and mediation tool.
 This week, a second series was organized in the same commune with new players, on 20th July. 
