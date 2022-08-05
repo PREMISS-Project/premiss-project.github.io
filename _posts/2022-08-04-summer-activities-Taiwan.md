@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Busy summer for the Taiwanese team! 
-subtitle: Internships, app update and a study: they never stop. 
+title: Busy summer for the Taiwanese team
+subtitle: Internships, app update and a study - they never stop
 tags: [sensors, app, Taiwan, interdisciplinarity]
 comments: true
 ---
