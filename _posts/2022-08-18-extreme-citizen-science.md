@@ -6,7 +6,7 @@ tags: [citizen science, sustainability, digital technologies]
 comments: true
 ---
 
-![photo report](https://user-images.githubusercontent.com/87107232/185537158-6a6a618e-c498-4ed9-96ba-65a2d3b989fb.png)
+![photo report](https://user-images.githubusercontent.com/87107232/185537280-e7da08b2-2e27-47dc-b7e1-6276e73063e1.png)
 
 At the heart of the summer, we would like to recommend the reading of a very enriching book about citizen science, more specifically extreme citizen science. 
 The book focuses especially on the challenges of literacy in general and scientific literacy in particular (especially access to technology), as well as supporting citizens to find the time to engage with scientific activities and effectively interact with the digital technologies which enable them.
